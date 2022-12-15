@@ -1,0 +1,135 @@
+
+body {
+    background-color: rgb(30, 30, 30);
+}
+
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+}
+
+.rectangle {
+    width: 960px;
+    margin: 20px;
+}
+
+#logo {
+    float: left;
+    text-align: left;
+    font-family: "Sofia", sans-serif;
+    width: 600px;
+    font-size: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#zegar {
+    float: left;
+    text-align:left;
+    font-family: "Sofia", sans-serif;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.square {
+    width: 50%;
+    float: left;
+}
+
+.tile1 {
+    float: left;
+    background-color: #3095d3;
+    width: 230px;
+    height: 142px;
+    margin: 10px;
+    text-align: center;
+}
+
+.tile1:hover {
+    background-color: #2084c2;
+}
+
+.tile2 {
+    float: left;
+    background-color: #666666;
+    width: 230px;
+    height: 142px;
+    margin: 10px;
+    text-align: center;
+}
+
+.tile2:hover {
+    background-color: #555555;
+}
+
+.tile3 {
+    float: left;
+    background-color: #93c748;
+    width: 230px;
+    height: 142px;
+    margin: 10px;
+    text-align: center;
+}
+
+.tile3:hover {
+    background-color: #83b637;
+}
+
+.tile4 {
+    background-color: #ee5a32;
+    width: 420px;
+    height: 82px;
+    margin: 10px;
+    text-align: center;
+    font-size: 26px;
+    padding: 30px;
+    line-height: 150%;
+}
+
+.tile4:hover {
+    background-color: #dd5a21;
+}
+
+.tile5 {
+    background-color: #666666;
+    width: 480px;
+    margin: 10px;
+    height: 304px;
+    text-align: center;
+}
+
+
+.yt {
+    float: left;
+    background-color: #d94348;
+    width: 105px;
+    height: 142px;
+    margin: 10px;
+}
+
+.fb {
+    float: left;
+    height: 142px;
+    width: 105px;
+    margin: 10px;
+    background-color: #4668b3;
+}
+
+.g {
+    float: left;
+    height: 142px;
+    width: 105px;
+    margin: 10px;
+    background-color: #d95333;
+}
+
+.tw {
+    float: left;
+    height: 142px;
+    width: 105px;
+    margin: 10px;
+    background-color: #3095d3;
+}
